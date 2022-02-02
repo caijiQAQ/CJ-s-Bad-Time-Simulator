@@ -63,7 +63,7 @@
 1.05,SansSlam,1,,,,,,,
 0,SansBody,HandDown,,,,,,,
 0,rnd,gst,360,,,,,,
-0,BattleAngle,$gst,,,,,,,
+0,BattleAngle,0,,,,,,,
 0,Sound,Flash,,,,,,,
 0,BoneStab,1,30,0.8,0.1,,,,
 0,BoneStab,3,100,0.8,0.1,,,,
